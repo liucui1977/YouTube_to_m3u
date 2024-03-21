@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711059272/ei/6Fz8ZZeOEuyBsfIP2aG1gAk/ip/20.172.5.219/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fztMVo837I-abfDAhAvPp9ZViqv9em2gHJFore0JZPs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQMq0EHDURwgUUD9CHfItT3XIG0zc4tc-vtbV9ZeIrIsCID65ruSt-TUlkfvQgUqNII621EnU6x_X2y_9bckYnHSF/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711062588/ei/3Gn8ZZy_OJGK2_gPn5m20A4/ip/172.183.154.117/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_ubdi9nY-fnUl3IowhGZNiZzoIEJN4VfUakfAckwyM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPvnBwW_-mFFksO2AE1B9cN7XhCZT-qseijDhWegEnyUCIQDt_X-V_jXKqwTKZPQIyNbdtNV2U2xylG61h67cjo0FkA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Kairali News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
